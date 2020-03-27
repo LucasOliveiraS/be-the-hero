@@ -15,10 +15,6 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEliasGcf%2Fbe-the-hero%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ## 🦸‍♀️ Projeto
 
 Com essa aplicação, e por meio do front-end web, as ONGs podem informar sobre seus casos, necessidades e o valor necessário para solucionar o problema.
@@ -40,7 +36,7 @@ Esta aplicação foi desenolvida com as tecnologias abaixo:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 - [Sequelize](https://sequelize.org/)
 - [Nodemon](https://nodemon.io/)
 - [Sucrase](https://github.com/alangpierce/sucrase)
@@ -105,8 +101,8 @@ _ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/EliasGcf/be-the-hero/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LucasOliveiraS/be-the-hero/blob/master/LICENSE) para mais detalhes.
 
 ---
 
-Feito com 💜 by [LucasOliveiraS](https://www.linkedin.com/in/eliasgcf/)
+Feito com 💜 by [LucasOliveiraS](https://www.linkedin.com/in/lucas-oliveira-492723127/)
